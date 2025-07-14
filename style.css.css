@@ -42,7 +42,7 @@ input {
 /* header start */
 .header {
     display: block;
-    background-image: url("../Photo/Jewelryimg2.jpg");
+    background-image: url("Jewelryimg2.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
