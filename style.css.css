@@ -1725,7 +1725,7 @@ input {
 
 .mail-inner .mail-child1 .mail-box input {
     font-size: 35px;
-    padding-top: 10px;
+    padding-top:5px;
     padding-bottom: 10px;
     padding-left: 15px;
     border: 1px solid #ddd;
@@ -1737,6 +1737,7 @@ input {
     font-size: 14px;
     color: #666;
     background-color: #ffffff;
+    
 }
 
 
