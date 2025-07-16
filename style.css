@@ -3385,3 +3385,239 @@ input {
 }
 
 
+
+@media (max-width:425px) {
+
+    .container {
+        width: 419px;
+    }
+
+    .data-inner .data-child3 {
+        position: relative;
+        left: 98px;
+    }
+
+    .pramotion-inner .pramotion-child5 {
+        display: none;
+    }
+
+    .pramotion-inner .pramotion-child1 {
+        margin: 9px;
+    }
+
+    .pramotion-inner .pramotion-child2 {
+        margin: 9px;
+    }
+
+    .pramotion-inner .pramotion-child3 {
+        margin: 9px;
+    }
+
+    .pramotion-inner .pramotion-child4 {
+        margin: 9px;
+    }
+
+    .view-inner .view-child1 a {
+        margin-left: 460px;
+    }
+
+    .service-innner .service-child1 .service-img1 img {
+        margin-left: 30px;
+    }
+
+    .service-innner .service-child2 .service-img2 img {
+        margin-left: 30px;
+    }
+
+    .service-innner .service-child3 .service-img3 img {
+        margin-left: 40px;
+    }
+
+    .auto-outer .auto-inner .auto-child1 .auto-icon {
+        margin-top: -68px;
+        margin-left: -29px;
+    }
+
+    .mouse-outer .mouse-inner .mouse-child1 .mouse-icon {
+        margin-top: -68px;
+        margin-left: -29px;
+    }
+
+    .mouse-outer .mouse-inner .mouse-child2 .mouse-icon {
+        margin-top: -68px;
+        margin-left: -29px;
+
+    }
+
+
+    .review-inner .review-child1 .review-img1 {
+        position: relative;
+        left: -72px;
+    }
+
+    .blog-outer .blog-inner .blog-child3 .blog-img2 .blog-text1 {
+        margin-left: 10px;
+    }
+
+    .designer-outer .desinger-inner .desinger-child1 .desinger-img1 .desinger-text1 h5 {
+        font-size: 9px;
+    }
+
+    .desinger-inner .desinger-child1 {
+        display: none;
+    }
+
+    .desinger-inner .desinger-child2 {
+        display: none;
+    }
+
+    .review-outer {
+        display: none;
+    }
+
+
+    .mail-outer {
+        display: none;
+    }
+
+    .blog-outer .blog-inner .blog-child3 .blog-img2 .blog-text1 {
+        margin: -53px;
+    }
+
+    .brand-outer {
+        margin-bottom: 40px;
+    }
+
+}
+
+@media (max-width:375px) {
+
+    .container {
+        width: 350px;
+    }
+
+    .data-inner .data-child3 {
+        position: relative;
+        left: 45px;
+    }
+
+    .view-inner .view-child1 .text1 h5 {
+        font-size: 14px;
+    }
+
+    .view-inner .view-child1 .text1 h2 {
+        font-size: 25px;
+        padding-right: 14px;
+
+    }
+
+    .view-inner .view-child1 .text1 h4 {
+        font-size: 23px;
+    }
+
+    .view-inner .view-child1 a {
+        font-size: 10px;
+        width: 56px;
+    }
+    .view-outer {
+        padding: 0;
+
+    }
+
+    .view-child1 .text1 {
+        margin: 0;
+    }
+
+    .view-child1 a {
+        margin-bottom: -101px;
+    }
+
+    .pramotion-child4 {
+        display: none;
+    }
+
+    .pramotion-child5 {
+        display: none;
+    }
+
+
+
+    .pramotion-child1 {
+        width: 10px;
+        margin: 90px;
+    }
+
+
+    .auto-outer .auto-inner .auto-child1 .auto-icon {
+        margin-top: -105px;
+        margin-left: -46px;
+
+    }
+
+    .mouse-outer .mouse-inner .mouse-child1 .mouse-icon {
+        margin-top: -105px;
+        margin-left: -46px;
+
+    }
+
+    .mouse-outer .mouse-inner .mouse-child2 .mouse-icon {
+        margin-top: -105px;
+        margin-left: -46px;
+    }
+
+    .auto-inner .auto-child1 .auto-text1 a {
+        font-size: 14px;
+
+    }
+
+    .auto-inner .auto-child1 .auto-text1 span {
+        font-size: 16px;
+        line-height: 40px;
+    }
+
+    .mouse-inner .mouse-child1 .mouse-text1 a {
+        font-size: 14px;
+    }
+
+    .mouse-inner .mouse-child1 .mouse-text1 span {
+        font-size: 16px;
+        line-height: 40px;
+    }
+
+    .mouse-inner .mouse-child2 .mouse-text2 a {
+        font-size: 14px;
+    }
+
+    .mouse-inner .mouse-child2 .mouse-text2 span {
+        font-size: 16px;
+        line-height: 40px;
+    }
+
+    .blog-outer .blog-inner .blog-child3 .blog-img2 .blog-text1 {
+        position: absolute;
+        left: 76px;
+        top: 217px;
+    }
+
+    .service-innner .service-child3 .text1 {
+        position: relative;
+        left: 20px;
+    }
+
+    .service-innner .service-child2 .text1 {
+        position: relative;
+        left: 5px;
+    }
+
+    .service-innner .service-child1 .text1 {
+        position: relative;
+        left: 4px;
+    }
+      .view-inner .view-child1 .text1
+      {
+        position: relative;
+        left: 20px;
+      }
+}
+
+
